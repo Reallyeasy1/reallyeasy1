@@ -1,4 +1,4 @@
-### Hi there, I am Yong Zhe. 👋 I am currently studying Computer Science as National University of Singapore.
+### Hi there, I am Yong Zhe. 👋 I am currently studying Computer Science at National University of Singapore.
 
 <!--
 **Reallyeasy1/reallyeasy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
